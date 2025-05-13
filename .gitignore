@@ -73,6 +73,6 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Projet/Saved/*
-Projet/Intermediate/*
-Projet/Library/*
+Ghost_Tale/Saved/*
+Ghost_Tale/Intermediate/*
+Ghost_Tale/Library/*
